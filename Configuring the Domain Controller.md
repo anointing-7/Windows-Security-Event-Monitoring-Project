@@ -1,3 +1,5 @@
+# Phase 1
+
 # Windows Server Setup:
 -I set up a Windows Server 2022 version using Oracle VirtualBox.
 -By selecting the option to create a new virtual machine, giving the new VM a name, selecting the right ISO image file, and manually assigning resources, I was able to get my Windows Server VM up and running.
