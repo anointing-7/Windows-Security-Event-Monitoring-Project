@@ -9,7 +9,7 @@ In this project, I set up two virtual machines: an Active Directory Domain Contr
 - Splunk Universal Forwarder
 - Sysmon
 
- ![Sysmon](https://img.shields.io/badge/Sysmon-Configured-green)
+     ![Sysmon](https://img.shields.io/badge/Sysmon-Configured-green)
 
 - Windows Event Viewer
   
