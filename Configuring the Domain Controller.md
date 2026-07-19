@@ -18,7 +18,7 @@
  <img width="975" height="734" alt="image" src="https://github.com/user-attachments/assets/6941ee4e-32b3-442c-873f-2e88b3f850cc" />
 
 
-## Challenges experienced:
+### Challenges experienced:
 -	I selected the standard version at first, and that gave me a terminal-based system, so I restarted the process of setting up the VM, and selected the Datacenter Desktop Experience version which worked fine.
 -	After setting the static IP, I had issues connecting to the internet. I did some troubleshooting and realized it was a DNS-related issue, and set the preferred DNS to 8.8.8.8, which resolved the issue.
 
