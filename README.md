@@ -4,8 +4,14 @@ In this project, I set up two virtual machines: an Active Directory Domain Contr
 
 ## Tools Used:
 - Windows Server 2022 (Active Directory Domain Services)
+
+     ![Windows](https://img.shields.io/badge/Windows-Server%202022-blue)
+
 - Windows 10 Endpoint
 - Splunk Enterprise (SIEM)
+
+     ![Splunk](https://img.shields.io/badge/Splunk-Enterprise-black?logo=splunk)
+
 - Splunk Universal Forwarder
 - Sysmon
 
