@@ -15,10 +15,15 @@ A single server (Domain Controller) with a single endpoint connected to it.
 
 ## Tools used:
 -Server Manager.
+
 -Local Group Policy.
+
 -PowerShell.
+
 -Splunk Enterprise.
+
 -Splunk Universal Forwarder.
+
 -Sysmon.
            
 
