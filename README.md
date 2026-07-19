@@ -16,10 +16,14 @@ In this project, I set up two virtual machines: an Active Directory Domain Contr
      ![Splunk](https://img.shields.io/badge/Splunk-Enterprise-black?logo=splunk)
 
 - Splunk Universal Forwarder
+
+     ![Splunk Universal Forwarder](https://img.shields.io/badge/Splunk-Universal%20Forwarder-000000?logo=splunk&logoColor=white)
+  
 - Sysmon
 
      ![Sysmon](https://img.shields.io/badge/Sysmon-Configured-green)
 
 - Windows Event Viewer
-  
+
+     ![Windows Event Viewer](https://img.shields.io/badge/Windows%20Event%20Viewer-Monitoring-blue)
   
